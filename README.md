@@ -107,7 +107,7 @@ cd <repository_name>
 Open your browser and navigate to http://localhost:3000 1 to see the application.
 
 ### Project Structure
-
+```plaintext
 ├── public
 │ ├── file.svg
 │ ├── globe.svg
@@ -156,3 +156,4 @@ Open your browser and navigate to http://localhost:3000 1 to see the application
 ├── postcss.config.mjs
 ├── README.md
 └── tsconfig.json
+```
